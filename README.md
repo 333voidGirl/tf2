@@ -1,5 +1,5 @@
 # 333voidGirl's TF2 config
-Should reproduce my exact TF2 settings. Pretty much anything I cannot directly distribute (I.E. mods) should be linked below.
+Should reproduce my exact TF2 settings. Pretty much anything I cannot directly distribute (I.E. mods) should be linked below. I run the game on legacy OpenGL usually because the 64-bit update started crashing my whole main system (Arch Linux moment).
 
 ## Hud
 [Middle Mann](https://gamebanana.com/mods/445578), although I previously used [Toonhud](https://toonhud.com/user/333voidgirl/theme/QBS9ZA6G/) and [DarHud](https://gamebanana.com/mods/463048/).
