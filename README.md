@@ -1,19 +1,11 @@
 # 333voidGirl's TF2 config
-Should reproduce my exact TF2 settings. Pretty much anything I cannot directly distribute (I.E. mods) should be linked below. I run the game on legacy OpenGL usually because the 64-bit update started crashing my whole main system (Arch Linux moment).
+Should reproduce my exact TF2 settings. Pretty much anything I cannot directly distribute (I.E. mods) should be linked below. I run the game using OpenGL on Linux usually. 
 
 ## Hud
-[Middle Mann](https://gamebanana.com/mods/445578), although I previously used [Toonhud](https://toonhud.com/user/333voidgirl/theme/QBS9ZA6G/) and [DarHud](https://gamebanana.com/mods/463048/).
+[PeachHUD](https://github.com/PapaPeach/PeachHUD) for now.
 
 ## Animations
-[Pyro](https://gamebanana.com/mods/206311),
-[Soldier](https://gamebanana.com/mods/206373),
-[Engineer](https://gamebanana.com/mods/400704),
-[Demoman](https://gamebanana.com/mods/373379),
-[Medic](https://gamebanana.com/mods/424671),
-[Heavy](https://gamebanana.com/mods/351628),
-[Spy](https://gamebanana.com/mods/307980),
-[Scout](https://gamebanana.com/mods/206351).
-Sniper animations I've tried don't seem to load for some reason.
+Not using any currently
 
 ## Other Mods
 For reduced/no explosion smoke I use Electrocuted Blue Flash. You can read more and pick out your favorite effect [here](https://www.teamfortress.tv/25647).
