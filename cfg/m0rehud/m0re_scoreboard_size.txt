@@ -1,0 +1,1 @@
+#base ../../custom/m0rehud-linux/resource/ui/customizations/scoreboard/scoreboard_6v6.res 

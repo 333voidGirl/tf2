@@ -1,19 +1,24 @@
 # 333voidGirl's TF2 config
-Should reproduce my exact TF2 settings. Pretty much anything I cannot directly distribute (I.E. mods) should be linked below. I run the game using OpenGL on Linux usually. 
+Should reproduce my exact TF2 settings (give or take things like volume, if I have chat, etc. as I change those often). Anything I cannot directly distribute (I.E. mods) should be linked below. I run the game using Vulkan on Arch Linux x86_64 [tkg kernel](https://github.com/Frogging-Family/linux-tkg). 
+
+## Launch Options
+gamemoderun %command% -enablefakeip -precachefontchars -particles 1 -no_texture_stream -nosteamcontroller -novid -nojoy -noff -nosteamcontroller -nohltv -w 1280 -h 960 -freq 165 -fullscreen -displayindex 0
 
 ## Hud
-[PeachHUD](https://github.com/PapaPeach/PeachHUD) for now.
+[m0rehud Linux branch](https://github.com/Hypnootize/m0rehud/tree/linux). 
 
-## Animations
-Not using any currently
+## Graphics Mods
+I use [mastercomfig](https://comfig.app/) (originally the medium low preset but I've tweaked it a lot in modules.cfg) in addition to a couple of their mods which you can install from the "app" section--namely the "No Footsteps" and "No Soundscapes" VPKs. I'm also using [https://github.com/JarateKing/CleanTF2plus](CleanTF2Plus) to get rid of bullet dust, generate flat textures, etc. If you're on Linux you might have to disable the checks to see if the folder is in the right place as the Linux version of TF2 doesn't have what CTF2+ is looking for and won't run otherwise (simply comment out the lines doing the checking and you should be fine lol). I also have renamed the folder "verycleantf2plus-linux64" to ensure it runs after my hud as renaming m0rehud breaks it and I was experiencing issues before doing this.
+
+For reduced/no explosion smoke I use [Pyro Pool](https://drive.google.com/file/d/0B_loCHMSRedyc2ZqVWZGVXVFWGs/view?resourcekey=0-kLQ4d6BeqOGqIFEwHEjvug). You can read more and pick out your favorite effect [here](https://www.teamfortress.tv/25647).
+
+[No-Smoke Rocket Launcher Particles](https://gamebanana.com/mods/12418) and [ClearWater](https://gamebanana.com/mods/199840), although they don't work in casual (the [Modern Casual Preloader](https://gamebanana.com/wips/79779) may help you but it breaks my computer bc I run the game in 4:3 on Linux which is abnormal lol. I've not tried [Casual Particle Preloader](https://gamebanana.com/tools/19049) but it's recommended for particle mods. You could also use [EZ Casual Conversion Helper](https://gamebanana.com/tools/18215) to convert them if they don't work by default but I've not gotten the tool to work on Linux.
 
 ## Other Mods
-For reduced/no explosion smoke I use Electrocuted Blue Flash. You can read more and pick out your favorite effect [here](https://www.teamfortress.tv/25647).
 
-I don't use [mastercomfig](https://comfig.app/), but I do use a couple of their mods which you can install from the "app" section--namely the "No Footsteps" and "No Soundscapes" VPKs. I have the Pyroland (map) textures disabled and flat mouse settings applied manually, although the VPKs that do the same are also available from them.
+[No After-Match Music](https://gamebanana.com/sounds/33479).
 
-I use [Custom Pyrovision Goggles](https://gamebanana.com/mods/547776), [Rainbow Jarate](https://gamebanana.com/mods/202124), [Beep-Spenser](https://gamebanana.com/mods/448202), [Harvester](https://gamebanana.com/requests/65992), [Trickster Lollichop](https://gamebanana.com/mods/204909) [Improved Textures Bundle](https://gamebanana.com/mods/465680), [Sweeping Willow](https://gamebanana.com/mods/547671), [Cauldron Concotions](https://gamebanana.com/mods/547672), [Hammer & Sickle Gloves](https://gamebanana.com/mods/495191) and [Retexture](https://gamebanana.com/mods/294328), and [Complementary Lightwrap](https://gamebanana.com/mods/205324). Christ that's a lot more than I remembered. Some of these do not work on casual and I've not gotten around to making them compatible yet.
+[Custom Pyrovision Goggles (fr0vision Animated Rainbow Gradient)](https://gamebanana.com/mods/547776). 
 
-My hit and kill sounds are hardstyle kicks from the various Reddit Hardstyle Packs on /r/Hardstyle. They're available in this repo but I thought I should mention their origin.
+My hit and kill sounds are hardstyle kicks from the various Reddit Hardstyle Packs on /r/Hardstyle, the killsound being overlaid with the Quake "Holy Shit" sfx. 
 
-[Modern Casual Preloader](https://gamebanana.com/wips/79779) keeps everything running. Goddess bless.
