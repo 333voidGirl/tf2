@@ -12,7 +12,11 @@ I use [mastercomfig](https://comfig.app/) (originally the medium low preset but 
 
 For reduced/no explosion smoke I use [Pyro Pool](https://drive.google.com/file/d/0B_loCHMSRedyc2ZqVWZGVXVFWGs/view?resourcekey=0-kLQ4d6BeqOGqIFEwHEjvug). You can read more and pick out your favorite effect [here](https://www.teamfortress.tv/25647).
 
+<<<<<<< HEAD
 I also use [No-Smoke Rocket Launcher Particles](https://gamebanana.com/mods/12418) and [ClearWater](https://gamebanana.com/mods/199840) although they don't work in casual. The [Casual Particle Preloader](https://gamebanana.com/tools/19049) basically fixes any issues you could ever have loading mods into casual (or the game generally). You could also use [EZ Casual Conversion Helper](https://gamebanana.com/tools/18215) to convert them if they don't work by default but I've not gotten the tool to work on Linux, nor does it seem necessary with the CPP.
+=======
+I also use [No-Smoke Rocket Launcher Particles](https://gamebanana.com/mods/12418) and [ClearWater](https://gamebanana.com/mods/199840) although they don't work in casual. The [Modern Casual Preloader](https://gamebanana.com/wips/79779) may help you but it breaks my computer bc I run the game in 4:3 on Linux which is abnormal lol. I've not tried [Casual Particle Preloader](https://gamebanana.com/tools/19049) but it's recommended for particle mods. You could also use [EZ Casual Conversion Helper](https://gamebanana.com/tools/18215) to convert them if they don't work by default but I've not gotten the tool to work on Linux.
+>>>>>>> f76fa89fbc18e8241d26b5cf628281f04509f143
 
 ## Other Mods
 
