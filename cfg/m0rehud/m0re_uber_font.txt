@@ -1,1 +1,0 @@
-#base ../../custom/m0rehud-linux/resource/ui/customizations/uber/hudmediccharge_font_big.res 
