@@ -5,7 +5,7 @@ Should reproduce my exact TF2 settings (give or take things like volume, if I ha
 gamemoderun %command% -precachefontchars -precachefontintlchars -no_texture_stream -novid -nojoy -nosteamcontroller -nohltv -noforcemaccel -noforcemspd -particles 1 -freq 165 +exec w/config.cfg
 
 ## Mods
-I use [mastercomfig](https://comfig.app/) (originally the low preset). I'm also using [CleanTF2Plus(https://github.com/JarateKing/CleanTF2plus]) to get rid of bullet dust, generate flat textures, etc. If you're on Linux you might have to disable the checks to see if the folder is in the right place (simply comment out the lines doing the checking and you should be fine lol). 
+I use [mastercomfig](https://comfig.app/) (originally the low preset). I'm also using [CleanTF2Plus](https://github.com/JarateKing/CleanTF2plus) to get rid of bullet dust, generate flat textures, etc. If you're on Linux you might have to disable the checks to see if the folder is in the right place (simply comment out the lines doing the checking and you should be fine lol). 
 
 For reduced/no explosion smoke and crosshairs I use [cfg.tf](https://cfg.tf/tools/crosshairs/) + their spy sapper effects. You can read more [here](https://www.teamfortress.tv/25647).
 
